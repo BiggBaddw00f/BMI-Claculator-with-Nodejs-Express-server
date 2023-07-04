@@ -1,0 +1,24 @@
+{
+  "name": "bmi-claculator-with-nodejs-express-server",
+  "version": "1.0.0",
+  "description": "A BMI Calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BiggBaddw00f/BMI-Claculator-with-Nodejs-Express-server.git"
+  },
+  "author": "BiggBaddw00f",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BiggBaddw00f/BMI-Claculator-with-Nodejs-Express-server/issues"
+  },
+  "homepage": "https://github.com/BiggBaddw00f/BMI-Claculator-with-Nodejs-Express-server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
